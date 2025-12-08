@@ -65,4 +65,10 @@ See `reference/starter.py` for a boilerplate template.
 
 ---
 
+## Next Assignment
+
+Ready to continue? [**Start Lab 3.5: Monitoring & Observability**](https://classroom.github.com/a/0GSecRIw)
+
+---
+
 *SignalWire AI Agents Certification*
