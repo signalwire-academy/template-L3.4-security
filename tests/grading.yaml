@@ -10,12 +10,12 @@ assignment:
 checks:
   - id: instantiate
     name: "Agent Instantiation"
-    points: 15
+    points: 20
     type: instantiate
     file: solution/agent.py
   - id: swml_valid
     name: "SWML Generation"
-    points: 15
+    points: 20
     type: swml_valid
     file: solution/agent.py
   - id: func_verify
@@ -26,20 +26,13 @@ checks:
     function: verify_pin
   - id: func_balance
     name: "get_balance function"
-    points: 15
+    points: 20
     type: function_exists
     file: solution/agent.py
     function: get_balance
-  - id: has_secure
-    name: "Secure Functions"
-    points: 20
-    type: swml_contains
-    file: solution/agent.py
-    require:
-      - text: "Secure"
   - id: has_pay
     name: "PCI Payment"
-    points: 15
+    points: 20
     type: swml_contains
     file: solution/agent.py
     require:

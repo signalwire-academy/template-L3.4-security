@@ -49,12 +49,11 @@ git push
 
 | Check | Points |
 |-------|--------|
-| Agent Instantiation | 15 |
-| SWML Generation | 15 |
+| Agent Instantiation | 20 |
+| SWML Generation | 20 |
 | verify_pin function | 20 |
-| get_balance function | 15 |
-| Secure Functions | 20 |
-| PCI Payment | 15 |
+| get_balance function | 20 |
+| PCI Payment | 20 |
 | **Total** | **100** |
 
 **Passing Score:** 70%
